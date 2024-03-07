@@ -1,2 +1,2 @@
 # pucrsoop
-Entrega dataset da steam
+Projetos desenvolvidos para analisar datasets da STEAM. 
